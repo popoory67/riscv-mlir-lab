@@ -1,3 +1,4 @@
+/* A linker script to gather sections in each object and put into one execution file. */
 OUTPUT_ARCH(riscv)
 
 /* The entry point is defined in `hello_world.s` */
